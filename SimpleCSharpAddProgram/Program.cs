@@ -15,7 +15,7 @@ namespace SimpleCSharpAddProgram
             int c = a + b;
 
             Console.WriteLine("=================================");
-            Console.WriteLine("Your result is " + c);
+            Console.WriteLine("Your result is " + c); //result
             Console.WriteLine("=================================");
             Console.ReadLine();
         }
